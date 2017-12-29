@@ -1,2 +1,2 @@
-# CS-221-Project
-# This project contains all the code base necessary for our CS 221 Project
+This repository contains the beginning of a code base to classify songs based on their composer.  Once completed, the code should
+read in an XML file containing a song composed by one of Bach, Beethoven, Chopin, Debussy, Haydn, Liszt, Mozart, Rachmaninov, Ravel, or Schubert and output which specific composer wrote the piece.  It is based on the use of different feature vectors such as pitch, pitch range, chord progressions, etc. 
